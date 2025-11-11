@@ -1,4 +1,3 @@
 # Guacamole
-Test
 ## Ingredients
 ## Instructions
